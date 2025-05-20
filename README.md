@@ -1,2 +1,2 @@
 # repo-1
-This is your first repository- push to default branch
+This is your first repository- push to non-default branch
